@@ -1,0 +1,39 @@
+.gris{
+    height: 260px;
+    width: 340px;
+    background-color: rgba(128, 128, 128, 0.685);
+    border: 1px solid black;
+    position: absolute;
+    top: 80px;
+    left: 50px;
+}
+
+.azul{
+    height: 160px;
+    width: 550px;
+    background-color: rgba(0, 0, 255, 0.267);
+    border: 1px solid blue;
+    position: absolute;
+    top: 420px;
+    left: 100px;
+}
+
+.verde{
+    height: 500px;
+    width: 165px;
+    background-color: rgba(0, 128, 0, 0.363);
+    border: 1px solid green;
+    position: absolute;
+    top: 25px;
+    right: 600px;
+}
+
+.roja{
+    height: 350px;
+    width: 250px;
+    background-color: rgba(255, 0, 0, 0.322);
+    border: 1px solid red;
+    position: absolute;
+    top: 230px;
+    left: 300px;
+}
